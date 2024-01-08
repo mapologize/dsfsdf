@@ -1,0 +1,18 @@
+.fs-12 {
+    font-size: 12px;
+}
+
+.ds-main {
+    -webkit-filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+}
+
+.bgc-1 { background-color: #303655;}
+.bgc-2 { background-color: #BFCBCE;}
+.bgc-3 { background-color: #84A7BA;}
+.bgc-4 { background-color: #6F90AF;}
+
+.fc-1 { color: #303655; }
+.fc-2 { color: #BFCBCE; }
+.fc-3 { color: #84A7BA; }
+.fc-4 { color: #6F90AF; }
